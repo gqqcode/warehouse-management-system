@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>mainImag/KeHuChaXun.png</file>
+        <file>mainImag/GysGuanLi.png</file>
+        <file>mainImag/KeHuGuanLi.png</file>
+        <file>mainImag/ShangPinGuanLi.png</file>
+        <file>mainImag/JinHuoDan.png</file>
+        <file>mainImag/XiaoShouDan.png</file>
+        <file>mainImag/ChaXun.png</file>
+        <file>mainImag/ChaXun1.png</file>
+        <file>mainImag/background.png</file>
+        <file>mainImag/mainbackground.png</file>
+        <file>mainImag/search.png</file>
+        <file>mainImag/help.png</file>
+        <file>mainImag/set.jpg</file>
+        <file>mainImag/login.png</file>
+        <file>mainImag/nuoya.png</file>
+        <file>mainImag/alter.jpg</file>
+    </qresource>
+</RCC>
